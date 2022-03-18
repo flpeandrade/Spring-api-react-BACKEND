@@ -1,0 +1,3 @@
+INSERT INTO tb_pacotes (origem, destino, preco, data_ida, data_volTa) VALUES ('São paulo', 'Rio de Janeiro', '1200', '24/03/2022', '25/04/2022');
+INSERT INTO tb_pacotes (origem, destino, preco, data_ida, data_volTa) VALUES ('Bahia', 'Rio de Janeiro', '1400', '28/03/2022', '10/04/2022');
+INSERT INTO tb_pacotes (origem, destino, preco, data_ida, data_volTa) VALUES ('Natal', 'Fernando de Noronha', '1800', '29/03/2022', '19/04/2022');
